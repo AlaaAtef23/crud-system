@@ -1,0 +1,17 @@
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button:hover {
+    box-shadow: 4px 5px 13px rgba(0, 0, 0, 0.37);
+    /* background-color: rgba(0, 0, 0, 0.5) !important; */
+}
+
+.btnblue:hover {
+    background-color: rgb(18, 52, 124) !important;
+}
+
+.btnred:hover {
+    background-color: brown !important;
+}
